@@ -1,4 +1,10 @@
 ## 📄 Change Log
+  
+### 2.0.6
+
+* Updated to swift 4.2
+* more style added
+
 
 ### 2.0.5
 
